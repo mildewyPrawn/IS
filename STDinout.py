@@ -11,4 +11,4 @@ class Animal:
     self.specie = specie
 
 for line in sys.stdin:
-    print(line)
+  print(line)
