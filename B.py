@@ -1,3 +1,8 @@
+# Te falta importar la clase A
+# Lo que hay en el from es el nombre del archivo y lo que hay en
+# import es el nombre de la clase
+from A import A
+
 class B(A):
     """Clase B que hereda a la clase A"""
 

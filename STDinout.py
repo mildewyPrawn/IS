@@ -12,3 +12,5 @@ class Animal:
 
 for line in sys.stdin:
   print(line)
+# Ten cuidado con los espacios que tienes en python. En los otros archivos utilizaste 4 estacios
+# y en este utilizaste 2.
