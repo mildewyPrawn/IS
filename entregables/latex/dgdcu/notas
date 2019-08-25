@@ -1,0 +1,23 @@
+administrador -preregistra (organizadores)
+              -inicia sesion (cierra)
+
+organizador de eventos -termina registro
+                       -CRUD (eventos)
+                       -anular invitaciones
+                       -ver lista de invitados
+                       -decidir mostrar detalles(evento)
+                       -asigar staff
+                       -ver actualizaciones de asistentes
+                       -inicia sesion (cierra)
+
+visitante -registrarse en el sistema
+          -inicia sesion (cierra)
+          -solicitar invitacion (a evento)
+          -buscar eventos (detalles)
+          -historial de eventos
+
+staff -acceder lista de invitados
+      -escanea QR
+      -inicia sesion (cierra)
+      -se registra
+
