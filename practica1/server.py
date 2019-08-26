@@ -1,6 +1,6 @@
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
-
+# OBTENIDO DE: https://www.youtube.com/watch?v=hFNZ6kdBgO0
 class Serv(BaseHTTPRequestHandler):
 
     def do_GET(self):
