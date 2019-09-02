@@ -1,0 +1,552 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.8.27)  2 SEP 2019 02:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"Especificacion de Requerimientos V3.0.tex"
+(./Especificacion de Requerimientos V3.0.tex
+LaTeX2e <2018-12-01>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2019/04/03 3.29 The Babel package
+
+(/usr/share/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2019/04/03 3.29 Babel switching mechanism
+)
+(/usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2019/04/03 3.29 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count89
+)
+\es@quottoks=\toks16
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/share/texmf-dist/tex/latex/anysize/anysize.sty
+Package: anysize 1994/08/13 setting margin sizes
+
+document style option `anysize' loaded
+Michael Salzenberg, Thomas Esser, Dirk Hillbrecht
+Version 1.0, Aug 13, 1994
+\@Leftmargin=\dimen106
+\@Rightmargin=\dimen107
+\@Topmargin=\dimen108
+\@Bottommargin=\dimen109
+) (/usr/share/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/share/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip52
+\RaggedLeftLeftskip=\skip53
+\RaggedRightLeftskip=\skip54
+\CenteringRightskip=\skip55
+\RaggedLeftRightskip=\skip56
+\RaggedRightRightskip=\skip57
+\CenteringParfillskip=\skip58
+\RaggedLeftParfillskip=\skip59
+\RaggedRightParfillskip=\skip60
+\JustifyingParfillskip=\skip61
+\CenteringParindent=\skip62
+\RaggedLeftParindent=\skip63
+\RaggedRightParindent=\skip64
+\JustifyingParindent=\skip65
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks18
+\float@box=\box27
+\@float@everytoks=\toks19
+\@floatcapt=\box28
+)
+(./Especificacion de Requerimientos V3.0.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+)
+\openout1 = `"Especificacion de Requerimientos V3.0.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen110
+\scratchbox=\box29
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen111
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 26.
+ (../caratula/caratula.tex
+<../imagenes/logo.jpg, id=1, 752.8125pt x 752.8125pt>
+File: ../imagenes/logo.jpg Graphic file (type jpg)
+<use ../imagenes/logo.jpg>
+Package pdftex.def Info: ../imagenes/logo.jpg  used on input line 26.
+(pdftex.def)             Requested size: 150.55983pt x 150.55983pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../imagenes/logo.jpg>])
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 48.
+(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+File: ../imagenes/logo.jpg Graphic file (type jpg)
+<use ../imagenes/logo.jpg>
+Package pdftex.def Info: ../imagenes/logo.jpg  used on input line 64.
+(pdftex.def)             Requested size: 75.28566pt x 75.28566pt.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 78.8857pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[1]
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 68--73
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--73
+
+ []
+
+<../imagenes/diagrama_general.png, id=16, 809.0225pt x 1627.07875pt>
+File: ../imagenes/diagrama_general.png Graphic file (type png)
+<use ../imagenes/diagrama_general.png>
+Package pdftex.def Info: ../imagenes/diagrama_general.png  used on input line 7
+7.
+(pdftex.def)             Requested size: 242.70862pt x 488.1274pt.
+File: ../imagenes/logo.jpg Graphic file (type jpg)
+<use ../imagenes/logo.jpg>
+Package pdftex.def Info: ../imagenes/logo.jpg  used on input line 83.
+(pdftex.def)             Requested size: 75.28566pt x 75.28566pt.
+[2]
+Overfull \hbox (43.45276pt too wide) in paragraph at lines 83--84
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 87.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 87.
+File: ../imagenes/logo.jpg Graphic file (type jpg)
+<use ../imagenes/logo.jpg>
+Package pdftex.def Info: ../imagenes/logo.jpg  used on input line 94.
+(pdftex.def)             Requested size: 75.28566pt x 75.28566pt.
+[3 <../imagenes/diagrama_general.png>]
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 95--96
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+
+ []
+
+<../imagenes/casoUsoVisitante.png, id=25, 370.38374pt x 226.8475pt>
+File: ../imagenes/casoUsoVisitante.png Graphic file (type png)
+<use ../imagenes/casoUsoVisitante.png>
+Package pdftex.def Info: ../imagenes/casoUsoVisitante.png  used on input line 1
+03.
+(pdftex.def)             Requested size: 370.38283pt x 226.84694pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+File: ../imagenes/logo.jpg Graphic file (type jpg)
+<use ../imagenes/logo.jpg>
+Package pdftex.def Info: ../imagenes/logo.jpg  used on input line 125.
+(pdftex.def)             Requested size: 75.28566pt x 75.28566pt.
+[4 <../imagenes/casoUsoVisitante.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Overfull \hbox (43.45276pt too wide) in paragraph at lines 139--140
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+<../imagenes/casoUsoStaff.png, id=31, 332.24126pt x 101.37875pt>
+File: ../imagenes/casoUsoStaff.png Graphic file (type png)
+<use ../imagenes/casoUsoStaff.png>
+Package pdftex.def Info: ../imagenes/casoUsoStaff.png  used on input line 150.
+(pdftex.def)             Requested size: 332.24043pt x 101.3785pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+
+ []
+
+File: ../imagenes/logo.jpg Graphic file (type jpg)
+<use ../imagenes/logo.jpg>
+Package pdftex.def Info: ../imagenes/logo.jpg  used on input line 166.
+(pdftex.def)             Requested size: 75.28566pt x 75.28566pt.
+[5 <../imagenes/casoUsoStaff.png>]
+Overfull \hbox (25.60722pt too wide) in paragraph at lines 167--171
+ [] 
+ []
+
+
+Overfull \hbox (17.627pt too wide) in paragraph at lines 176--176
+[]\OT1/cmr/m/n/10 Paso| 
+ []
+
+
+Overfull \hbox (17.627pt too wide) in paragraph at lines 176--176
+[]\OT1/cmr/m/n/10 Paso| 
+ []
+
+
+Overfull \hbox (2.15475pt too wide) in paragraph at lines 177--177
+[]\OT1/cmr/m/n/10 1| 
+ []
+
+
+Overfull \hbox (2.15475pt too wide) in paragraph at lines 177--177
+[]\OT1/cmr/m/n/10 2| 
+ []
+
+
+Overfull \hbox (2.15475pt too wide) in paragraph at lines 179--179
+[]\OT1/cmr/m/n/10 3| 
+ []
+
+
+Overfull \hbox (2.15475pt too wide) in paragraph at lines 179--179
+[]\OT1/cmr/m/n/10 3| 
+ []
+
+
+Overfull \hbox (2.15475pt too wide) in paragraph at lines 182--182
+[]\OT1/cmr/m/n/10 4| 
+ []
+
+
+Overfull \hbox (2.15475pt too wide) in paragraph at lines 182--182
+[]\OT1/cmr/m/n/10 5| 
+ []
+
+
+Overfull \hbox (23.59605pt too wide) in paragraph at lines 174--186
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+
+ []
+
+
+Overfull \hbox (58.0948pt too wide) in paragraph at lines 190--198
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+
+Overfull \hbox (27.42804pt too wide) in paragraph at lines 202--208
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
+
+<../imagenes/qr.png, id=38, 220.825pt x 220.825pt>
+File: ../imagenes/qr.png Graphic file (type png)
+<use ../imagenes/qr.png>
+Package pdftex.def Info: ../imagenes/qr.png  used on input line 225.
+(pdftex.def)             Requested size: 44.16422pt x 44.16422pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+<../imagenes/perrito.jpg, id=39, 961.5925pt x 598.235pt>
+File: ../imagenes/perrito.jpg Graphic file (type jpg)
+<use ../imagenes/perrito.jpg>
+Package pdftex.def Info: ../imagenes/perrito.jpg  used on input line 235.
+(pdftex.def)             Requested size: 96.16487pt x 59.827pt.
+
+Overfull \hbox (0.49812pt too wide) in paragraph at lines 232--239
+ [] 
+ []
+
+File: ../imagenes/logo.jpg Graphic file (type jpg)
+<use ../imagenes/logo.jpg>
+Package pdftex.def Info: ../imagenes/logo.jpg  used on input line 239.
+(pdftex.def)             Requested size: 75.28566pt x 75.28566pt.
+[6 <../imagenes/qr.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+
+ []
+
+File: ../imagenes/qr.png Graphic file (type png)
+<use ../imagenes/qr.png>
+Package pdftex.def Info: ../imagenes/qr.png  used on input line 246.
+(pdftex.def)             Requested size: 44.16422pt x 44.16422pt.
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 250--251
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--266
+
+ []
+
+File: ../imagenes/logo.jpg Graphic file (type jpg)
+<use ../imagenes/logo.jpg>
+Package pdftex.def Info: ../imagenes/logo.jpg  used on input line 266.
+(pdftex.def)             Requested size: 75.28566pt x 75.28566pt.
+[7 <../imagenes/perrito.jpg>] (./Especificacion de Requerimientos V3.0.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+) ) 
+Here is how much of TeX's memory you used:
+ 2718 strings out of 492623
+ 38155 string characters out of 6135669
+ 118999 words of memory out of 5000000
+ 6590 multiletter control sequences out of 15000+600000
+ 8166 words of font info for 29 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,16n,43p,306b,369s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
+sr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "Especificacion de Requerimientos V3.0.pdf" (8 pages, 952915 
+bytes).
+PDF statistics:
+ 77 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+

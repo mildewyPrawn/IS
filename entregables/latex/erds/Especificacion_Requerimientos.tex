@@ -1,0 +1,87 @@
+\documentclass[12pt,letterpaper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{} %Paquete para el idioma del archivo.
+\usepackage[left=2.54cm,right=2.54cm,top=2.54cm,bottom=2.54cm]{geometry} %Se supone que es el margen del archivo.
+\usepackage{amsmath}
+\usepackage{amssymb} %Paquete paa símbolos, entre ellos las negaciones.
+\usepackage{amsfonts} %Paquete para denotar letras, como conjuntos de números. 
+\usepackage{graphicx}
+\usepackage[all]{xy}
+\usepackage{tikz}
+\usepackage[normalem]{ulem}
+\usepackage{soul}
+\pagestyle{empty}
+\usepackage{mathrsfs}
+\usepackage{ upgreek }
+\usepackage[pdftex]{hyperref}
+\usepackage{polynom} %Paquete para escribir divisiones de polinomios.
+
+
+\usepackage{fancyhdr} %Paquete para modificar pie de página.
+\pagestyle{fancy} %El pie de página comienza desde ésta página.
+
+\begin{document} 
+
+\begin{center}
+  {\LARGE \scshape Universidad Nacional Aut\'onoma de M\'exico \vspace{10mm} \\ Facultad de Ciencias }
+  \rule{0.8\textwidth}{.8pt}\\
+\end{center}
+
+\subsection*{Nombre del equipo: Ilakech Alakech}
+\subsection*{Sistema: PUMA eventos} 
+\subsection*{Iteraci\'on: Segunda} 
+
+\begin{center}
+  {\LARGE \textbf {Especificaci\'on de Requerimientos de Software}}
+\end{center} 
+
+\subsection*{Contenido}
+\smallskip \underline{Enunciado del problema.}
+\\ 
+\smallskip \underline{Diagramas de caso de uso} de la iteraci\'on 
+\\
+\smallskip \underline{Golsario de t\'erminos.}
+\\
+\smallskip Detalle de casos de uso de la primera iteraci\'on.
+
+\begin{enumerate}
+\item Caso de uso: Visitante \\
+\end{enumerate}
+
+\begin{center}
+  \includegraphics[scale=.2]{Visitante.png}
+\end{center}
+
+Descripcion: El visitante puede ver todos los eventos que la UNAM tenga disponibles, puede ver detalles como fechas, etc., pero no puede buscar eventos ni solicitar invitaci\'on a alguno de ellos, para eso debe de estar registrado.
+
+\begin{table}[htbp]
+  \centering
+  \begin{tabular}{| c | c | }
+    \hline
+    Paso & Acci\'on  \\ \hline
+    1 & El visitante entra al sistema &  \hline
+    
+    2 &  El visitante da click sobre el bot\'on de eventos.\\ \hline
+
+    3 & El sistema muestra la lista de los eventos disponibles & \hline
+
+    4 & El visitante puede ver la lista de eventos.\\ \hline    
+  \end{tabular}
+  \caption{Flujo normal de eventos.}
+  \label{tabla:eventos}
+\end{table}
+
+\cfoot{} % quitar número de página del centro.  
+
+\rfoot{
+
+  Elaboró: Miriam Torres Bucio.
+
+  Versión: 2.0
+
+
+  Fecha de elaboraci\'on:} %Pie de página izquierdo.
+
+
+\end{document}
