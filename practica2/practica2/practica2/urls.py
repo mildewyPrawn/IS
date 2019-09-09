@@ -18,5 +18,6 @@ from django.urls import include, path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('emiliano/', include('emiliano.urls'))
+    # Le quito 'emiliano/' y ya no tengo que ir a 127..../emiliano
+    path('', include('emiliano.urls'))
 ]
