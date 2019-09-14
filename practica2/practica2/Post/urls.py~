@@ -1,0 +1,10 @@
+from django.urls import include, path
+# from . import views
+from .views import HomePageView
+
+urlpatterns = [
+    # path('', views.OnePost.as_view(), name='onePost'),
+    path('', HomePageView.as_view(), name='onePost'),
+    # path('<int:post_id>/', views.OnePost.as_view(), name='onePost'),
+    path('<int:post_id>/', HomePageView.as_view(), name='onePost'),
+]
