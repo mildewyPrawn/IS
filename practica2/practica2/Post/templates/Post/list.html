@@ -6,18 +6,11 @@
 
 <a href="{% url 'index' %}">Home</a>
 
+<h1>MIS POSTS</h1>
 <ul>
   {% for post in object_list %}
   <h2>{{ post.title }}</h2>
-  <h3>{{post.date}}</h3>
-  <div class="">
-    <p>
-      {{post.paragraph}}
-    </p>
-  </div>
-  <img src="{{post.cover.url}}">
-  <!-- <img src="../../static/emiliano/imag/pp.jpg" width="150px"> -->
+  <a href="{% url 'index' %}">{{post.date}}</a>
   {% endfor %}
 </ul>
-
 {% endblock %}

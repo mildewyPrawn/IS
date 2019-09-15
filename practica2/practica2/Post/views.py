@@ -17,4 +17,4 @@ class OnePost(View):
 
 class HomePageView(ListView):
     model = Post
-    template_name = 'Post/one_post.html'
+    template_name = 'Post/list.html'

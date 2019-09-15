@@ -5,16 +5,18 @@
 {% block body_content %}
 
 <a href="{% url 'index' %}">Home</a>
-
-<h1> {{ post.title }} </h1>
-<div class="">
+<center>
+  <div>
+    <img src="{{post.image.url}}" width="1000px">
+  </div>
+  <h1> {{ post.title }} </h1>
+  <div class="">
     {{ post.date }}
-</div>
-<div class="">
+  </div>
+  <div class="">
     <p>
-        {{ post.paragraph }}
+      {{ post.paragraph }}
     </p>
-</div>
-<img src="{{post.image.url}}">
-<!-- <img src="{{post.cover.url}}"> -->
+  </div>
+</center>
 {% endblock %}
