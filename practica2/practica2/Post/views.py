@@ -25,4 +25,5 @@ class CreatePostView(CreateView):
     model = Post
     form_class = PostForm
     template_name = 'Post/add.html'
-    success_url = reverse_lazy('home')
+    success_url = reverse_lazy('onePost')
+    # success_url = reverse_lazy('home')

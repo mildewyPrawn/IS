@@ -6,12 +6,15 @@
 
 <a href="{% url 'index' %}">Home</a>
 
+<!-- POSTS -->
 <h1>MIS POSTS</h1>
 <ul>
   {% for post in object_list %}
   <h2>{{ post.title }}</h2>
-  <a href="{% url 'index' %}">{{post.date}}</a>
+  <a href="/posts/{{ post.id }}/">{{post.date}}</a>
   {% endfor %}
 </ul>
+
+<!-- Agregar post -->
 <a href="{% url 'add' %}">Agregar un Post</a>
 {% endblock %}

@@ -5,6 +5,5 @@ from . import views
 urlpatterns = [
     path('', HomePageView.as_view(), name='onePost'),
     path('<int:post_id>/', OnePost.as_view(), name='onePost'),
-    # path('addPost/', OnePost.as_view(), name='add'),
     path('addPost/', CreatePostView.as_view(), name='add')
 ]
